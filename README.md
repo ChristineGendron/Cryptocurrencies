@@ -11,6 +11,6 @@ This repository contains an analysis of a dataset from CryptoCompare that uses u
 
 ## Visualizations
 
-![2D scatterplot](Images/scatter2d.png.png)
+![2D scatterplot](Images/scatter2d.png)
 
-![3d scatterplot](Images/scatter3d.png.png)
+![3d scatterplot](Images/scatter3d.png)
